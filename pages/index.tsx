@@ -20,6 +20,7 @@ export default function Index({ allPosts }: Props) {
       <Layout>
         <Head>
           <title>{`SQS | Swedish Quantum Society ${CMS_NAME}`}</title>
+          <meta property="og:image" content="/assets/blog/sqs/sqs.jpeg" />
         </Head>
         <Container>
           <Intro />
