@@ -29,13 +29,7 @@ const Alert = ({ preview }: Props) => {
             </>
           ) : (
             <>
-              Swedish Quantum Society | SQS using{' '}
-              <a
-                href={`https://github.com/vercel/next.js/tree/canary/examples/${EXAMPLE_PATH}`}
-                className="underline hover:text-blue-600 duration-200 transition-colors"
-              >
-                Next.js
-              </a>
+              Swedish Quantum Society | SQS
             </>
           )}
         </div>
