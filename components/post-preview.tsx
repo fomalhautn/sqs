@@ -18,6 +18,7 @@ const PostPreview = ({
   coverImage,
   date,
   excerpt,
+  author,
   slug,
 }: Props) => {
   return (
@@ -38,10 +39,9 @@ const PostPreview = ({
         <DateFormatter dateString={date} />
       </div>
       <p className="text-lg leading-relaxed mb-4">{excerpt}</p>
-
+      <Avatar name={author.name} picture={author.picture} />
     </div>
   )
 }
 
 export default PostPreview
-//     <Avatar name={author.name} picture={author.picture} />
