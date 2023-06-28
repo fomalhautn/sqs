@@ -9,7 +9,7 @@ type Props = {
   coverImage: string
   date: string
   excerpt: string
-  author: Author
+  author?: Author // Make the author prop optional
   slug: string
 }
 
