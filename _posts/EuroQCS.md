@@ -1,7 +1,7 @@
 ---
 title: 'EuroQCS – A Pan-European HPC-Quantum Computing Infrastructure'
 excerpt: 'As part of the EuroCC network of national competence centres, ENCCS is closely following trends and developments in the European HPC ecosystem at large. A major emerging theme in this space is Quantum Computing (QC).'
-coverImage: '/assets/blog/dynamic-routing/cover.jpg'
+coverImage: '/assets/blog/euroqcs/EuroQCS.jpg'
 date: '2023-06-18T05:35:07.322Z'
 displayDate: false
 author:
