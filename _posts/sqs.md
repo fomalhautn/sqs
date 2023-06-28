@@ -8,7 +8,7 @@ author:
   name: 
   picture: 
 ogImage:
-  url: '/assets/blog/preview/cover.jpg'
+  url: '/assets/blog/sqs/sqs.jpeg'
 ---
 
 ## Move the Nordic World toward Quantum.

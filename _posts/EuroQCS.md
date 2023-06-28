@@ -8,7 +8,7 @@ author:
   name: 
   picture: 
 ogImage:
-  url: '/assets/blog/dynamic-routing/cover.jpg'
+  url: '/assets/blog/sqs/sqs.jpeg'
 ---
 
 As part of the EuroCC network of national competence centres, ENCCS is closely following trends and developments in the European HPC ecosystem at large. A major emerging theme in this space is Quantum Computing (QC).
