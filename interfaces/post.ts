@@ -6,7 +6,7 @@ type PostType = {
   date: string
   displayDate: boolean
   coverImage: string
- // author: Author
+  author: Author
   excerpt: string
   ogImage: {
     url: string

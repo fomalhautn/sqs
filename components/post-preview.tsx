@@ -9,7 +9,7 @@ type Props = {
   coverImage: string
   date: string
   excerpt: string
- // author: Author
+  author: Author
   slug: string
 }
 
@@ -18,7 +18,7 @@ const PostPreview = ({
   coverImage,
   date,
   excerpt,
-  // author,
+  author,
   slug,
 }: Props) => {
   return (
