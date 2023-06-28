@@ -11,7 +11,7 @@ ogImage:
   url: '/assets/blog/sqs/sqs.jpeg'
 ---
 
-## Move the Nordic World toward Quantum.
+## Move the Nordic World toward Quantum
 
 Välkommen to the Swedish Quantum Society created by ENCCS.se! 
 
