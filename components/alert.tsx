@@ -27,11 +27,8 @@ const Alert = ({ preview }: Props) => {
               </a>{' '}
               to exit preview mode.
             </>
-          ) : (
-            <>
-              Swedish Quantum Society | SQS
-            </>
-          )}
+          ) : null
+          }
         </div>
       </Container>
     </div>
