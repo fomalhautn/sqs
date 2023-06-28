@@ -19,7 +19,7 @@ export default function Index({ allPosts }: Props) {
     <>
       <Layout>
         <Head>
-          <title>{`SQS | Swedish Quantum Society ${CMS_NAME}`}</title>
+          <title>{`SQS | Swedish Quantum Society`}</title>
         </Head>
         <Container>
           <Intro />
