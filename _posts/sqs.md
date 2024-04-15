@@ -2,7 +2,7 @@
 title: 'Swedish Quantum Society | SQS'
 excerpt: 'This community is dedicated to highlighting Swedish Quantum initiatives and fostering communication and collaboration among its members.'
 coverImage: '/assets/blog/sqs/sqs.jpeg'
-date: '2023-06-19T05:35:07.322Z'
+date: '2024-04-15T05:35:07.322Z'
 displayDate: false
 author:
   name: 
