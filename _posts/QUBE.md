@@ -8,7 +8,7 @@ author:
   name: 
   picture: 
 ogImage:
-  url: '/assets/blog/QUBE/qube.jpeg'
+  url: '/assets/blog/QUBE/qube.jpg'
 ---
 
 How To Program Your Own Quantum Computer or QUBE: QUantum computing for BEginners by RISE Research Institutes of Sweden Professor Martin Nilsson: https://arxiv.org/abs/2312.06624
